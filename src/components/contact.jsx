@@ -92,9 +92,12 @@ export const Contact = (props) => {
                   <p className="help-block text-danger"></p>
                 </div>
                 <div id="success"></div>
-                <button type="submit" className="btn btn-custom btn-lg">
-                  Send Message
-                </button>
+                {/* <button type="submit" className="btn btn-custom btn-lg">
+                <i className="fa fa-whatsapp"></i>WhatsApp Now
+                </button> */}
+                <a href="https://wa.link/6ppkwz" target="_blank" rel="noopener noreferrer" className="btn btn-custom btn-lg">
+                <i className="fa fa-whatsapp"></i> WhatsApp Now
+                </a>
               </form>
             </div>
           </div>
@@ -125,29 +128,29 @@ export const Contact = (props) => {
               </p>
             </div>
           </div>
-          {/* <div className="col-md-12">
+          <div className="col-md-12">
             <div className="row">
               <div className="social">
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.facebook : "/"}>
-                      <i className="fa fa-facebook"></i>
+                  <a href={props.data ? `https://wa.link/6ppkwz` : "#"} target="_blank" rel="noopener noreferrer">
+                      <i className="fa fa-whatsapp"></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.twitter : "/"}>
-                      <i className="fa fa-twitter"></i>
+                  <a href={props.data ? `https://wa.link/6ppkwz` : "#"} target="_blank" rel="noopener noreferrer">
+                      <i className="fa fa-whatsapp"></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.youtube : "/"}>
-                      <i className="fa fa-youtube"></i>
+                  <a href={props.data ? `https://wa.link/6ppkwz` : "#"} target="_blank" rel="noopener noreferrer">
+                      <i className="fa fa-whatsapp"></i>
                     </a>
                   </li>
                 </ul>
               </div>
             </div>
-          </div> */}
+          </div>
         </div>
       </div>
       <div id="footer">

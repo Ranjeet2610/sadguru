@@ -203,6 +203,21 @@ a:focus,
   outline: none;
   outline-offset: none;
 }
+
+
+.btn-whatsapp {
+  background-color: #25d366; /* WhatsApp Green */
+  color: white;
+  border-radius: 5px;
+  padding: 10px 20px;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 10px;
+}
+.btn-whatsapp:hover {
+  background-color: #1ebe57;
+}
+
 /* Header Section */
 .intro {
   display: table;
@@ -214,6 +229,7 @@ a:focus,
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
+  
 }
 .intro .overlay {
   background: rgba(0, 0, 0, 0.2);
@@ -500,12 +516,12 @@ header .intro-text {
 }
 #contact .btn-custom {
   margin: 30px 0;
-  background: transparent;
+  background: #25d366;
   border: 2px solid #fff;
 }
 #contact .btn-custom:hover {
   color: #1f386e;
-  background: #fff;
+  background: #25d366;
 }
 label {
   font-size: 12px;
