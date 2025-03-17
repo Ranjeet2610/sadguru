@@ -231,6 +231,16 @@ a:focus,
   -o-background-size: cover;
   
 }
+
+.background-link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 2; /* Ensures it's clickable */
+}
+
 .intro .overlay {
   background: rgba(0, 0, 0, 0.2);
 }
@@ -520,7 +530,7 @@ header .intro-text {
   border: 2px solid #fff;
 }
 #contact .btn-custom:hover {
-  color: #1f386e;
+  color: #ffffff;
   background: #25d366;
 }
 label {
