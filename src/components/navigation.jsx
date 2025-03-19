@@ -2,9 +2,9 @@ import React from "react";
 
 export const Navigation = (props) => {
   return (
-    <nav id="menu" className="navbar navbar-default navbar-fixed-top">
+    // <nav id="menu" className="navbar navbar-default navbar-fixed-top">
       <div className="container">
-        <div className="navbar-header">
+        {/* <div className="navbar-header">
           <button
             type="button"
             className="navbar-toggle collapsed"
@@ -20,9 +20,9 @@ export const Navigation = (props) => {
           <a className="navbar-brand page-scroll" href="https://wa.link/6ppkwz">
             SADGURU11.COM
           </a>{" "}
-        </div>
+        </div> */}
 
-        <div
+        {/* <div
           className="collapse navbar-collapse"
           id="bs-example-navbar-collapse-1"
         >
@@ -62,9 +62,9 @@ export const Navigation = (props) => {
                 Contact
               </a>
             </li>
-          </ul>
-        </div>
+          </ul> */}
+        {/* </div> */}
       </div>
-    </nav>
+    // </nav>
   );
 };
