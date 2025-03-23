@@ -266,8 +266,8 @@ a:focus,
   margin-bottom: 60px;
 }
 header .intro-text {
-  padding-top: 350px;
-  padding-bottom: 200px;
+  padding-top: 100%;
+  padding-bottom: 100%;
   text-align: center;
 }
 /* Features Section */
