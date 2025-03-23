@@ -21,6 +21,13 @@ const App = () => {
   const [landingPageData, setLandingPageData] = useState({});
   useEffect(() => {
     setLandingPageData(JsonData);
+    // Disable touch interactions
+    document.body.style.touchAction = "none";
+
+    return () => {
+      // Restore touch interactions when the component unmounts
+      document.body.style.touchAction = "auto";
+    };
   }, []);
 
   return (
