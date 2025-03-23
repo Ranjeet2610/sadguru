@@ -22,7 +22,7 @@ const App = () => {
   useEffect(() => {
     setLandingPageData(JsonData);
     // Disable touch interactions
-    document.body.style.touchAction = "none";
+    document.body.style.touchAction = "pan-y";
 
     return () => {
       // Restore touch interactions when the component unmounts
