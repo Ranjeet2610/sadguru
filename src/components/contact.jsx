@@ -48,7 +48,7 @@ export const Contact = (props) => {
           </p>
           <p>
           Copyright © 2025 Sadguru11 - All Rights Reserved.{" "}</p>
-          <p><a href="https://wa.link/y0c3ps" rel="nofollow">
+          <p><a href="https://wa.me/+919582844364" rel="nofollow">
             IF YOU WANT TO RUN ADS LIKE THIS CLICK HERE 
             </a>
           </p>
