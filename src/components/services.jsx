@@ -7,7 +7,7 @@ export const Services = (props) => {
         <div className="section-title">
           <h2>Our Services</h2>
           <p>
-          Sadguru is a reliable ID promoter, offering a diverse selection of sports IDs, including online cricket and various gaming options. Our sports IDs ensure a smooth gaming experience. We've assisted over 20k players in finding the top online games.
+          Gabbarbook is a reliable ID promoter, offering a diverse selection of sports IDs, including online cricket and various gaming options. Our sports IDs ensure a smooth gaming experience. We've assisted over 20k players in finding the top online games.
           </p>
         </div>
         <div className="row">
