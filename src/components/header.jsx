@@ -1,18 +1,22 @@
 import React from "react";
 
-export const Header = ({ data }) => {
+export const Header = (props) => {
   return (
     <header id="header">
       <div className="intro">
         <div className="overlay">
-          <a
-            href="https://wa.link/gf2aai"
-            target="_blank"
-            rel="noopener noreferrer"
-            style={{ display: "block", width: "100%", height: "100%" }}
-          >
-            {/* Entire intro section is now clickable */}
-          </a>
+          <div className="container">
+            <div className="row">
+              <div className="col-md-8 col-md-offset-2 intro-text">
+                <h1>
+                  {props.data ? props.data.title : "Loading"}
+                  <span></span>
+                </h1>
+                <p>{props.data ? props.data.paragraph : "Loading"}</p>
+                <a href="https://wa.link/gf2aai" className="btn btn-custom btn-lg page-scroll" > get ur id here </a>{" "}
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </header>
