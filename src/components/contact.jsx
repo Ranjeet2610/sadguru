@@ -162,7 +162,7 @@ export const Contact = (props) => {
             </a> */}
           </p>
           <p>
-          Copyright © 2025 dads2 shop - All Rights Reserved.{" "}
+          Copyright © 2025 dads4 shop - All Rights Reserved.{" "}
             {/* <a href="http://www.templatewire.com" rel="nofollow">
               TemplateWire
             </a> */}
