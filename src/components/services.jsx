@@ -7,7 +7,7 @@ export const Services = (props) => {
         <div className="section-title">
           <h2>Our Services</h2>
           <p>
-          Lotus365Book is a reliable ID promoter, offering a diverse selection of sports IDs, including online cricket and various gaming options. Our sports IDs ensure a smooth gaming experience. We've assisted over 20k players in finding the top online games.
+          GulatiTradersBook is a reliable ID promoter, offering a diverse selection of sports IDs, including online cricket and various gaming options. Our sports IDs ensure a smooth gaming experience. We've assisted over 20k players in finding the top online games.
           </p>
         </div>
         <div className="row">

@@ -162,7 +162,7 @@ export const Contact = (props) => {
             </a> */}
           </p>
           <p>
-          Copyright © 2025 Lotus365 Book - All Rights Reserved.{" "}
+          Copyright © 2025 GulatiTraders Book - All Rights Reserved.{" "}
             {/* <a href="http://www.templatewire.com" rel="nofollow">
               TemplateWire
             </a> */}

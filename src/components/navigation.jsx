@@ -18,7 +18,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="https://wa.link/8efilt">
-            Lotus365
+            GulatiTraders
           </a>{" "}
         </div>
 
