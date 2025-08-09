@@ -95,7 +95,7 @@ export const Contact = (props) => {
                 {/* <button type="submit" className="btn btn-custom btn-lg">
                 <i className="fa fa-whatsapp"></i>WhatsApp Now
                 </button> */}
-                <a href="https://wa.link/hwhdiz" target="_blank" rel="noopener noreferrer" className="btn btn-custom btn-lg">
+                <a href="https://wa.link/mahadevbook24x7" target="_blank" rel="noopener noreferrer" className="btn btn-custom btn-lg">
                 <i className="fa fa-whatsapp"></i> WhatsApp Now
                 </a>
               </form>
@@ -133,17 +133,17 @@ export const Contact = (props) => {
               <div className="social">
                 <ul>
                   <li>
-                  <a href={props.data ? `https://wa.link/hwhdiz` : "#"} target="_blank" rel="noopener noreferrer">
+                  <a href={props.data ? `https://wa.link/mahadevbook24x7` : "#"} target="_blank" rel="noopener noreferrer">
                       <i className="fa fa-whatsapp"></i>
                     </a>
                   </li>
                   <li>
-                  <a href={props.data ? `https://wa.link/hwhdiz` : "#"} target="_blank" rel="noopener noreferrer">
+                  <a href={props.data ? `https://wa.link/mahadevbook24x7` : "#"} target="_blank" rel="noopener noreferrer">
                       <i className="fa fa-whatsapp"></i>
                     </a>
                   </li>
                   <li>
-                  <a href={props.data ? `https://wa.link/hwhdiz` : "#"} target="_blank" rel="noopener noreferrer">
+                  <a href={props.data ? `https://wa.link/mahadevbook24x7` : "#"} target="_blank" rel="noopener noreferrer">
                       <i className="fa fa-whatsapp"></i>
                     </a>
                   </li>
