@@ -7,7 +7,7 @@ export const Services = (props) => {
         <div className="section-title">
           <h2>Our Services</h2>
           <p>
-          Booksshop is a reliable book promoter, offering a diverse selection of titles, including fiction, non-fiction, and various genres. Our books ensure an enjoyable reading experience. We've assisted over 20k readers in finding the top books online.
+          Booksshop At Bookshop, we believe every reader deserves the perfect book. From timeless classics to the latest bestsellers, children’s tales to academic references, our shelves are filled with stories and knowledge for every age and interest.
           </p>
         </div>
         <div className="row">
