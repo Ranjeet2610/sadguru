@@ -161,8 +161,12 @@ export const Contact = (props) => {
               TemplateWire
             </a> */}
           </p>
-          <p>
-          Copyright © 2025 booksshop - All Rights Reserved.{" "}
+          
+<p>This platform Only offers skill-based fantasy sports news and does not promote or support gambling or betting. Articles Published in this Website is strictly for users aged 18 years and above. Please play responsibly. Fantasy sports are legal in most Indian states, but participation may be restricted in some regions. Ensure compliance with your local laws before playing. </p> 
+
+<p>We only promote fantasy sports. No real money involvement</p>
+          
+         <p> Copyright © 2025 booksshop - All Rights Reserved.{" "}
             {/* <a href="http://www.templatewire.com" rel="nofollow">
               TemplateWire
             </a> */}
