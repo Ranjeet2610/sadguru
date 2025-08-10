@@ -157,9 +157,9 @@ export const Contact = (props) => {
         <div className="container text-center">
         <p>
         Disclaimer:- This Website is only for 18+ users. If you are from Telangana, Orissa, Assam, Sikkim,Andhra Pradesh and Nagaland Please leave the website immediately. Be aware of fraudsters, we only deal via WhatsApp. We Only Promote Fantasy Sports. No Real Money Involvement.{" "}
-            <a href="http://www.templatewire.com" rel="nofollow">
+            {/* <a href="http://www.templatewire.com" rel="nofollow">
               TemplateWire
-            </a>
+            </a> */}
           </p>
           <p>
           Copyright © 2025 booksshop - All Rights Reserved.{" "}
