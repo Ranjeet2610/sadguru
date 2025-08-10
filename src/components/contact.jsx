@@ -155,14 +155,14 @@ export const Contact = (props) => {
       </div>
       <div id="footer">
         <div className="container text-center">
-        <p>
+        {/* <p>
         Disclaimer:- This Website is only for 18+ users. If you are from Telangana, Orissa, Assam, Sikkim,Andhra Pradesh and Nagaland Please leave the website immediately. Be aware of fraudsters, we only deal via WhatsApp. We Only Promote Fantasy Sports. No Real Money Involvement.{" "}
-            {/* <a href="http://www.templatewire.com" rel="nofollow">
+            <a href="http://www.templatewire.com" rel="nofollow">
               TemplateWire
-            </a> */}
-          </p>
+            </a>
+          </p> */}
           <p>
-          Copyright © 2025 Sadguru11 - All Rights Reserved.{" "}
+          Copyright © 2025 booksshop - All Rights Reserved.{" "}
             {/* <a href="http://www.templatewire.com" rel="nofollow">
               TemplateWire
             </a> */}

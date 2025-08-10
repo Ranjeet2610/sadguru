@@ -7,7 +7,7 @@ export const Services = (props) => {
         <div className="section-title">
           <h2>Our Services</h2>
           <p>
-          Sadguru is a reliable ID promoter, offering a diverse selection of sports IDs, including online cricket and various gaming options. Our sports IDs ensure a smooth gaming experience. We've assisted over 20k players in finding the top online games.
+          Booksshop is a reliable book promoter, offering a diverse selection of titles, including fiction, non-fiction, and various genres. Our books ensure an enjoyable reading experience. We've assisted over 20k readers in finding the top books online.
           </p>
         </div>
         <div className="row">

@@ -68,18 +68,18 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Top Sports ID Provider",
-      "text": "We provide top-quality fantasy sports IDs for players who want to showcase their skills and enjoy the game."
+      "name": "Wide Book Collection",
+      "text": "Fiction, non-fiction, educational, self-help, biographies, and more."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Established in 2013",
-      "text": "We have been in this industry since 2013, giving us extensive experience compared to newcomers."
+      "name": "Pre-Order & Special Requests",
+      "text": "Looking for a rare or upcoming title? We’ll find it for you."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Enhanced Security",
-      "text": "Your security is our top priority—your data remains completely safe and is never shared at any point!"
+      "name": "Online Ordering & Home Delivery",
+      "text": "Get your favorite books delivered right to your doorstep."
     }
     
     
@@ -141,7 +141,7 @@
   "Contact": {
     "address": "4321 California St, San Francisco, CA 12345 ",
     "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "email": "info@booksshop.online",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
