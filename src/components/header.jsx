@@ -1,14 +1,29 @@
 import React from "react";
 
 export const Header = (props) => {
-  const handleWhatsAppClick = (e) => {
-    e.preventDefault();
-    window.gtag_report_conversion("https://wa.link/0fdcfh");
+  const handleWhatsAppClick = () => {
+    if (typeof window.gtag_report_conversion === "function") {
+      window.gtag_report_conversion("https://wa.link/0fdcfh");
+    } else {
+      // fallback if gtag is not loaded yet
+      window.location.href = "https://wa.link/0fdcfh";
+    }
   };
 
   return (
     <header id="header">
-      <div className="intro" onClick={handleWhatsAppClick} style={{ cursor: "pointer" }}>
+      <div
+        className="intro"
+        style={{ cursor: "pointer" }}
+        onClick={handleWhatsAppClick}
+      >
+        <a
+          href="https://wa.link/0fdcfh"
+          className="background-link"
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{ display: "block", width: "100%", height: "100%" }}
+        ></a>
         <div className="overlay">
           <div className="container">
             <div className="row">
