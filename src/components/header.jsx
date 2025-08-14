@@ -6,7 +6,6 @@ export const Header = (props) => {
     if (window.gtag_report_conversion) {
       window.gtag_report_conversion("https://wa.link/0fdcfh");
     } else {
-      // Fallback if gtag_report_conversion isn't loaded
       window.location.href = "https://wa.link/0fdcfh";
     }
   };
