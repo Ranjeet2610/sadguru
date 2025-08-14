@@ -4,9 +4,9 @@ export const Header = (props) => {
   const handleClick = (e) => {
     e.preventDefault();
     if (window.gtag_report_conversion) {
-      window.gtag_report_conversion("https://wa.link/0fdcfh");
+      window.gtag_report_conversion("https://wa.link/q1thbi");
     } else {
-      window.location.href = "https://wa.link/0fdcfh";
+      window.location.href = "https://wa.link/q1thbi";
     }
   };
 
@@ -14,7 +14,7 @@ export const Header = (props) => {
     <header id="header">
       <div className="intro">
         <a
-          href="https://wa.link/0fdcfh"
+          href="https://wa.link/q1thbi"
           className="background-link"
           target="_blank"
           rel="noopener noreferrer"
