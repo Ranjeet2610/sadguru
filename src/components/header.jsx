@@ -5,7 +5,7 @@ export const Header = (props) => {
     if (typeof window.gtag_report_conversion === "function") {
       window.gtag_report_conversion("https://wa.link/0fdcfh");
     } else {
-      // fallback if gtag is not loaded yet
+      console.warn("Google Ads tag not loaded yet");
       window.location.href = "https://wa.link/0fdcfh";
     }
   };
