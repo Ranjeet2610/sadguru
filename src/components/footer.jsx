@@ -12,7 +12,7 @@ const Footer = () => {
         rel="noopener noreferrer"
         onClick={() => window.gtag_report_conversion()}
       >
-        <img src="/1500x800.png" alt="Click" style={{ width: "100%", height: "auto" }} />
+        <img src="/img/1500x800.png" alt="Click" style={{ width: "100%", height: "auto" }} />
       </a>
     </div>
   );
