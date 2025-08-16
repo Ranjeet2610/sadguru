@@ -7,7 +7,7 @@ import TagManager from 'react-gtm-module';
 
 // Initialize Google Tag Manager
 const tagManagerArgs = {
-  gtmId: 'GTM-NK8K2ZTX',
+  gtmId: 'GTM-WZJ5G58J',
 };
 
 TagManager.initialize(tagManagerArgs);
