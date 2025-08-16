@@ -162,7 +162,7 @@ export const Contact = (props) => {
             </a> */}
           </p>
           <p>
-          Copyright © 2025 booksdads2.shop - All Rights Reserved.{" "}
+          Copyright © 2025 lotus9book.in - All Rights Reserved.{" "}
             {/* <a href="http://www.templatewire.com" rel="nofollow">
               TemplateWire
             </a> */}
