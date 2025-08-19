@@ -162,7 +162,7 @@ export const Contact = (props) => {
             </a> */}
           </p>
           <p>
-          Copyright © 2025 mdsalon.shop - All Rights Reserved.{" "}
+          Copyright © 2025 mdonlineshop.in - All Rights Reserved.{" "}
             {/* <a href="http://www.templatewire.com" rel="nofollow">
               TemplateWire
             </a> */}
