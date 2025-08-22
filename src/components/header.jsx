@@ -6,12 +6,12 @@ const Header = () => {
     <div id="specialContentArea">
       
   <a
-  href="https://wa.link/0h85bx"
+  href="https://wa.link/n2p523"
   target="_blank"
   rel="noopener noreferrer"
   onClick={() => {
     window.gtag('event', 'conversion', {
-      send_to: 'AW-17453639828/-i0xCK7Xz4kbEJTRxYJB'
+      send_to: 'AW-17484559097/BSicCNvu1okbEPnlpJFB'
     });
   }}
 >
