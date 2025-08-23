@@ -6,7 +6,7 @@ const Header = () => {
     <div id="specialContentArea">
       
   <a
-  href="https://wa.link/n2p523"
+  href="https://wa.link/5a4rwk"
   target="_blank"
   rel="noopener noreferrer"
   onClick={() => {
