@@ -47,7 +47,7 @@ export const Contact = (props) => {
             </a> */}
           </p>
           <p>
-          Copyright © 2025 mdsalon11 - All Rights Reserved.{" "}</p>
+          Copyright © 2025 swastikk.shop  - All Rights Reserved.{" "}</p>
           <p><a href="https://wa.link/y0c3ps" rel="nofollow">
             IF YOU WANT TO RUN ADS LIKE THIS CLICK HERE 
             </a>
