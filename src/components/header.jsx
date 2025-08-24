@@ -16,7 +16,7 @@ const Header = () => {
   }}
 >
 
-        <img src="/a.webp" alt="Special Content" style={{ width: "100%", height: "auto" }} />
+        <img src="/a.jpg" alt="Special Content" style={{ width: "100%", height: "auto" }} />
         <img src="/click.jpg" alt="Click" style={{ width: "100%", height: "auto" }} />
       </a>
     </div>
