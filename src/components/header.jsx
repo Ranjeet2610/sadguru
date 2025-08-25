@@ -11,7 +11,7 @@ const Header = () => {
   rel="noopener noreferrer"
   onClick={() => {
     window.gtag('event', 'conversion', {
-      send_to: 'AW-17490322182/prnfCKijgIobEIbGhJRB'
+      send_to: 'AW-17490322182/pl7ICNnqxY0bEIbGhJRB'
     });
   }}
 >
