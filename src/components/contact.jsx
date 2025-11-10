@@ -157,7 +157,7 @@ export const Contact = (props) => {
         <div className="container text-center">
         
           <p>
-          Copyright © 2025 RADHEY - All Rights Reserved.{" "}
+          Copyright © 2025 BIGWIN - All Rights Reserved.{" "}
             {/* <a href="http://www.templatewire.com" rel="nofollow">
               TemplateWire
             </a> */}
