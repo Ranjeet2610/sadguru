@@ -4,7 +4,7 @@ export const Header = (props) => {
   return (
     <header id="header">
       <a
-        href="https://wa.link/8efilt"
+        href="https://wa.link/thalaking"
         target="_blank"
         rel="noopener noreferrer"
         style={{ display: "block", textDecoration: "none" }} // Optional style reset
